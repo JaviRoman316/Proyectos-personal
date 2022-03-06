@@ -1,0 +1,16 @@
+﻿variable,valor
+carpeta_inputs,Inputs
+actividades,Inputs/actividades.csv
+carreteras_federales,Inputs/carreteras_federales.csv
+denue_2021_ligera,Inputs/denue.RData
+poblacion,Inputs/poblacion.csv
+carreteras_estatales,Inputs/resultados_carreteras_estatales.csv
+datos_viales,Inputs/resultados_carreteras.csv
+graficas,Outputs/Graficas
+treemap_seguridad,Inputs/treemap_seguridad.csv
+mapas,Outputs/Mapas
+data,Outputs/Data
+catalogo_claves,Inputs/catalogo_claves_inegi.csv
+indice_sin,Inputs/indice_siniestralidad.csv
+entidades,https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/geojsons/Division%20Politica/DivisionEstatal.geojson
+municipios,https://raw.githubusercontent.com/JuveCampos/Shapes_Resiliencia_CDMX_CIDE/master/geojsons/Division%20Politica/mpios2.geojson
