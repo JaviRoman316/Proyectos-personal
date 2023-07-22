@@ -27,3 +27,5 @@ Realiza un treemap utilizando ggplot de los datos de delitos cibernéticos feder
 Genera una matriz de distancias, tiempos y tiempos con tráfico de puntos geográficos consumiendo informacion de la API "Distance Matrix" de gmaps
 # 20230630_modelo_optimizacion_rutas.py
 Resuelve un problema de Vehicle Routing Problem with Time Windows utilizando la librería de OR-Tools
+# modelo_predictivo.py
+Modelo de Machine Learning aplicado a series de tiempo para predecir el consumo de ciertos medicamentos en especificas unidades medicas
