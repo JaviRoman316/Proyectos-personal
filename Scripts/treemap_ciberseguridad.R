@@ -7,7 +7,7 @@ options(scipen = 999) # Evitar notacion cientifica
 
 # Directorio --------------------------------------------------------------
 # Cargamos el directorio
-directorio<-read.csv("/Users/javiroman/RGV Soluciones Dropbox/Javier Román Bautista/Contenido Marketing/Directorio/directorio.csv",fileEncoding = 'UTF-8-BOM')
+directorio<-read.csv("Directorio/directorio.csv",fileEncoding = 'UTF-8-BOM')
 directorio<-as.data.table(directorio)
 for(i in 1:nrow(directorio)){
   assign(paste0(directorio[i,"variable"]),as.character(directorio[i,"valor"]))
