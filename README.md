@@ -12,10 +12,10 @@ Incluye los resultados de los análisis
 # analisis_carreteras.py
 Análisa la información de viajes diarios promedios registrados en las carreteras federales y estatales, tanto las libres como las de cuotas y 
 expulsa un par de resúmenes de esta información
-# analisis_denue_noviembre_2021.R
+# analisis_denue_noviembre_2021.R
 Analiza la base de la denue de noviembre 2021 expulsando un pequeño resumen de unidades económicos por clave SCIAN sector
 La base ya se encuentra tratada, ya que no es como originalmente la presenta el INEGI
-# carreteras.r
+# carreteras.R
 Analiza la información del tránsito diario promedio anual por todas las carreteras de México y expulsa un mapa de ggplot con información interesante
 # mapa_leaflet_mexico_siniestros.R
 Realiza un mapa interactivo hecho con leaflet sobre el índice de siniestralidad en 2019
