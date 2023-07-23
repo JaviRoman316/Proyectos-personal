@@ -8,7 +8,7 @@ Created on Wed Jan 26 18:46:34 2022
 
 import pandas as pd
 from os import path
-inputs = "/Users/javiroman/RGV Soluciones Dropbox/Javier Román Bautista/Contenido Marketing/Inputs"
+inputs = "ubicacion inputs"
 
 
 # Cargamos la base de datos viales
