@@ -23,4 +23,3 @@ Realiza un mapa interactivo hecho con leaflet sobre el índice de siniestralidad
 Obtiene de la Denue noviembre 2021 todas las taquerías en la CDMX, las clasifica de acuerdo a personal ocupado y expulsa un mapa de ggplot
 # treemap_ciberseguridad.R
 Realiza un treemap utilizando ggplot de los datos de delitos cibernéticos federales
-
