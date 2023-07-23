@@ -23,3 +23,9 @@ Realiza un mapa interactivo hecho con leaflet sobre el índice de siniestralidad
 Obtiene de la Denue noviembre 2021 todas las taquerías en la CDMX, las clasifica de acuerdo a personal ocupado y expulsa un mapa de ggplot
 # treemap_ciberseguridad.R
 Realiza un treemap utilizando ggplot de los datos de delitos cibernéticos federales
+# modelo_predictivo.py
+Modelo predictivo de machine learning para series de tiempo aplicado al consumo de medicamentos
+# modelo_optimizacion_rutas.py
+Modelo de optimización de rutas (Vehicle Routing Problem with Time Windows) ejecutado con la librería OR-Tools
+# api_distance_matrix.py
+Genera las matrices de distancias, tiempos y tiempos con tráfico entre n puntos utilizando la API de "distance matrix" de GMAPS
